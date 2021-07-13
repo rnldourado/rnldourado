@@ -25,4 +25,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rnldourado&show_icons=true&theme=tokyonight&title_color=000000&bg_color=ffffff&locale=en" alt="rnldourado" /></p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=gradient)
+
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rnldourado&theme=dark" alt="rnldourado" /></p>
