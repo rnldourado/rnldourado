@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **rnldourado@gmail.com**
 
-- ⚡ Fun fact **I like play Valorant in free times**
+- ⚡ Fun fact **I like play acustic guittar in free times**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
