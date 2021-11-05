@@ -32,10 +32,11 @@
     <a target='_blank' href="https://api.whatsapp.com/send?phone=5574999147251">
             <img src="https://img.shields.io/badge/Whatsapp-34af23?style=for-the-badge&logo=whatsapp&logoColor=white">
     </a>
+    <a href="https://medium.com/@rnldourado" target="blank"><img  src="https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=balck" alt="@rnldourado" /></a>
     <a href="https://discord.gg/Raniel Dourado#8594" target="blank"> 
             <img src="https://img.shields.io/badge/Discord-7780F0?style=for-the-badge&logo=discord&logoColor=white" alt="RanielDourado#8594"/></a>
     <a href="https://fb.com//rnldourado" target="blank"><img  src="https://img.shields.io/badge/Facebook-139CF8?style=for-the-badge&logo=facebook&logoColor=white" alt="/rnldourado" /></a>
-    <a href="https://medium.com/@rnldourado" target="blank"><img  src="https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=balck" alt="@rnldourado" /></a>
+    
   
 </div>
 
