@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Raniel Dourado</h1>
 <h3 align="center">A passionate about technology</h3>
 
-- 🌱 I’m currently learning **the JavaScript ecosytem**
+- 🌱 I’m currently **learning the JavaScript ecosytem and starting my graduate in Computer Science**
 
-- 📫 How to reach me **rnldourado@gmail.com**
+- 📫 How to reach me: **rnldourado@gmail.com**
 
-- ⚡ Fun fact **I like play acustic guittar in free times**
+- 🎈 About me: **I'm vegetarian, i like play acustic guittar and play voleyball in free times**
 
 <!-- <h3 align="left">Connect with me:</h3> -->
 <!-- <p align="left">
