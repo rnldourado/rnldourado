@@ -5,7 +5,7 @@
 
 - 📫 How to reach me: **rnldourado@gmail.com**
 
-- 🎈 About me: **I'm vegetarian, i like play acustic guittar and play voleyball in free times**
+<!-- 🎈 About me: **I like play acustic guittar and play voleyball in free times** -->
 
 <!-- <h3 align="left">Connect with me:</h3> -->
 <!-- <p align="left">
