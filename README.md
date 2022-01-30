@@ -1,5 +1,3 @@
-<h1 align="center">Hi! 👋🏽</h1>
-<h3 align="center">I'm passionate about technology</h3>
 
 - 🎯 I’m currently learning web development with Java and JavaScript ecosytem and starting my graduate in Computer Science
 
