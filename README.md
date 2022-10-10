@@ -26,7 +26,7 @@
 
 </p>
 <small>I'm not necessarily proficient in the above technologies, some i've just experimented.</small>
-<hr>
+---
 <br>
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rnldourado&show_icons=true&theme=radical&locale=en&layout=compact" alt="rnldourado" />
